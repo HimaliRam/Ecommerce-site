@@ -1,0 +1,96 @@
+/* ===== BODY ===== */
+body {
+  background: #f5f5f5;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+/* ===== NAVBAR ===== */
+.top-navbar {
+  background: #fff;
+  padding: 12px 30px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70px; /* FIXED HEIGHT */
+  z-index: 1000;
+}
+
+/* ===== PAGE TITLE ===== */
+h2 {
+  text-align: center;
+  margin-top: 100px; /* 👈 ONLY TOP SPACE (for navbar) */
+  margin-bottom: 20px; /* 👈 SMALL GAP */
+  font-weight: 600;
+}
+
+/* ===== GRID ===== */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  max-width: 1100px;
+  margin: 0 auto; /* center */
+}
+
+/* ===== CARD ===== */
+.card {
+  background: white;
+  padding: 15px;
+  border-radius: 12px;
+  text-align: center;
+  position: relative;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: 0.3s;
+}
+
+  .card:hover {
+    transform: translateY(-5px);
+  }
+
+  /* IMAGE */
+  .card img {
+    width: 100%;
+    height: 160px;
+    object-fit: contain;
+  }
+
+/* REMOVE ICON */
+.remove {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  color: red;
+}
+
+/* PRICE */
+.price {
+  color: #ff9800;
+  font-weight: bold;
+  margin-top: 5px;
+}
+.cart-btn {
+  margin-top: 10px;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #ff9800, #ff5722);
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+  .cart-btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 5px 15px rgba(255,152,0,0.4);
+  }

@@ -1,0 +1,105 @@
+<div class="category-bar">
+
+  <div class="category"
+       *ngFor="let cat of categories"
+       [class.active]="selectedCategory === cat.name"
+       (click)="selectCategory(cat.name)">
+
+    <a>
+      <img [src]="cat.image">
+      <p>{{ cat.name }}</p>
+    </a>
+
+  </div>
+
+</div>
+
+<!-- ✅ CAROUSEL (SHOW ONLY FIRST TIME) -->
+<div class="carousel-wrapper" *ngIf="showCarousel">
+
+  <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
+
+    <div class="carousel-inner">
+
+      <div class="carousel-item"
+           *ngFor="let img of carouselImages; let i = index"
+           [ngClass]="{ 'active': i === 0 }">
+
+        <img [src]="img"
+             (error)="onImageError($event)"
+             class="carousel-img d-block w-100" />
+
+      </div>
+
+    </div>
+
+    <button class="carousel-control-prev"
+            type="button"
+            data-bs-target="#carouselExample"
+            data-bs-slide="prev">
+      <span class="carousel-control-prev-icon"></span>
+    </button>
+
+    <button class="carousel-control-next"
+            type="button"
+            data-bs-target="#carouselExample"
+            data-bs-slide="next">
+      <span class="carousel-control-next-icon"></span>
+    </button>
+
+  </div>
+</div>
+
+<!-- ✅ PRODUCTS -->
+<div class="products">
+  <div class="product" *ngFor="let p of filteredProducts">
+
+    <span class="wishlist-icon"
+          [class.active]="isInWishlist(p)"
+          (click)="toggleWishlist(p)">
+      {{ isInWishlist(p) ? '❤️' : '♡' }}
+    </span>
+
+    <img [src]="p.image" (error)="onImageError($event)" class="product-img" />
+
+    <h4 class="product-name">{{ p.name }}</h4>
+    <div class="price">₹{{ p.price }}</div>
+
+    <!-- ✅ BUTTON GROUP -->
+    <div class="btn-group">
+      <button class="btn cart-btn" (click)="addToCart(p)">
+        🛒 Add to Cart
+      </button>
+
+      <button class="btn buy-btn" (click)="buyNow(p)">
+        ⚡ Buy Now
+      </button>
+    </div>
+
+  </div>
+</div>
+
+<!-- ✅ MODAL -->
+<div class="modal fade" id="productModal" tabindex="-1">
+  <div class="modal-dialog modal-lg modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">{{ currentModalProduct?.name }}</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+
+      <div class="modal-body d-flex gap-4">
+        <img [src]="currentModalProduct?.image" class="modal-img" />
+
+        <div>
+          <h4>{{ currentModalProduct?.name }}</h4>
+          <h5>₹{{ currentModalProduct?.price }}</h5>
+          <p>{{ currentModalProduct?.description }}</p>
+          <button class="btn btn-warning" (click)="addModalToCart()">
+            Add To Cart
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

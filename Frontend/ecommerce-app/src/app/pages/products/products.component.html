@@ -1,0 +1,68 @@
+<div class="filter-bar">
+
+  <h3>{{ selectedCategory }}</h3>
+
+  <!-- PRICE FILTER -->
+  <select [(ngModel)]="selectedPriceFilter" (change)="applyFilters()">
+    <option value="">All Prices</option>
+    <option value="lt100">Less than ₹100</option>
+    <option value="500-1000">₹500 - ₹1000</option>
+    <option value="gt1000">Above ₹1000</option>
+  </select>
+
+  <!-- SORT FILTER -->
+  <select [(ngModel)]="selectedSort" (change)="applyFilters()">
+    <option value="">Sort By Price</option>
+    <option value="low-high">Price: Low → High</option>
+    <option value="high-low">Price: High → Low</option>
+  </select>
+
+</div>
+
+<!-- 🔥 DEBUG CHECK (IMPORTANT) -->
+<div *ngIf="filteredProducts.length === 0">
+  <p style="color:red; text-align:center;">
+    No products found OR UI not rendering
+  </p>
+</div>
+
+<!-- PRODUCTS -->
+<!-- PRODUCTS GRID (HOME STYLE) -->
+<div class="products">
+
+  <div class="product" *ngFor="let p of filteredProducts">
+
+    <!-- WISHLIST ICON -->
+    <span class="wishlist-icon"
+          [class.active]="isInWishlist(p)"
+          (click)="toggleWishlist(p)">
+      {{ isInWishlist(p) ? '❤️' : '♡' }}
+    </span>
+
+    <!-- PRODUCT IMAGE -->
+    <img [src]="p.image"
+         (error)="onImageError($event)"
+         class="product-img" />
+
+    <!-- PRODUCT NAME -->
+    <h4 class="product-name">{{ p.name }}</h4>
+
+    <!-- PRICE -->
+    <div class="price">₹{{ p.price }}</div>
+
+    <!-- BUTTON GROUP -->
+    <div class="btn-group">
+
+      <button class="btn cart-btn" (click)="addToCart(p)">
+        🛒 Add to Cart
+      </button>
+
+      <button class="btn buy-btn" (click)="buyNow(p)">
+        ⚡ Buy Now
+      </button>
+
+    </div>
+
+  </div>
+
+</div>

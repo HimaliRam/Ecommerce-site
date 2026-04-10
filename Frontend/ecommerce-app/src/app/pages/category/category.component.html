@@ -1,0 +1,16 @@
+<h2>{{ categoryName }} Products</h2>
+<div class="products">
+  <div *ngFor="let p of products" class="product-card">
+    <img 
+  [src]="p.image" 
+  (error)="onImageError($event)" 
+  width="200" height="200" 
+  style="object-fit: contain;">
+    <h3>{{ p.name }}</h3>
+    <p>{{ p.price }}</p>
+    <button (click)="addToCart(p)">Add to Cart</button>
+    <button (click)="toggleWishlist(p)">
+      {{ isInWishlist(p) ? 'Remove from Wishlist' : 'Add to Wishlist' }}
+    </button>
+  </div>
+</div>

@@ -1,0 +1,89 @@
+<div class="login-container">
+
+  <!-- LEFT SIDE -->
+  <div class="left-panel">
+    <div class="brand">
+      <h1>ShopEase</h1>
+      <p>Experience smarter shopping</p>
+    </div>
+  </div>
+
+  <!-- RIGHT SIDE -->
+  <div class="right-panel">
+
+    <form (ngSubmit)="login()" class="glass-card" autocomplete="off">
+
+      <!-- ✅ ADD THIS -->
+      <h2>Welcome Back 👋</h2>
+      <p class="subtitle">Login to your account</p>
+
+      <!-- EMAIL -->
+      <div class="input-group">
+        <input type="email"
+               [(ngModel)]="email"
+               name="email"
+               required
+               autocomplete="new-email"
+               autocorrect="off"
+               autocapitalize="none"
+               spellcheck="false">
+        <label>Email</label>
+      </div>
+
+      <!-- PASSWORD -->
+      <div class="input-group">
+        <input type="password"
+               [(ngModel)]="password"
+               name="password"
+               required
+               autocomplete="new-password">
+        <label>Password</label>
+      </div>
+
+      <div class="forgot">
+        <a href="#" (click)="openForgot(); $event.preventDefault()">Forgot Password?</a>
+      </div>
+
+      <button type="submit">Login →</button>
+
+      <div class="signup">
+        Don’t have an account?
+        <a (click)="goToRegister($event)">Sign up</a>
+      </div>
+
+    </form>
+    <!-- Forgot Password Modal -->
+    <div class="modal" *ngIf="showForgotModal">
+
+      <div class="modal-content">
+
+        <!-- ❌ Close Button -->
+        <span class="close-btn" (click)="closeModal()">×</span>
+
+        <h2>Reset Password</h2>
+        <p class="subtitle">Secure your account in 3 easy steps</p>
+
+        <!-- STEP 1 -->
+        <div *ngIf="step === 1" class="step">
+          <input [(ngModel)]="resetEmail" name="resetEmail" placeholder="Enter your email">
+          <button type="button" (click)="sendOtp()">Send OTP</button>
+        </div>
+
+        <!-- STEP 2 -->
+        <div *ngIf="step === 2" class="step">
+          <input [(ngModel)]="otp" name="otp" placeholder="Enter OTP">
+          <button type="button" (click)="verifyOtp()">Verify OTP</button>
+        </div>
+
+        <!-- STEP 3 -->
+        <div *ngIf="step === 3" class="step">
+          <input [(ngModel)]="newPassword" name="newPassword" type="password" placeholder="New Password">
+          <button type="button" (click)="resetPassword()">Reset Password</button>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+
+</div>

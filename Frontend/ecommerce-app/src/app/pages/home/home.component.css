@@ -1,0 +1,523 @@
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+  flex: 1;
+}
+
+footer {
+  background: #222;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  width: 100%;
+}
+
+/* Give space so footer doesn't overlap content */
+body {
+  padding-bottom: 70px;
+}
+
+/* ============ NAVBAR ============ */
+
+.top-navbar {
+  background: #fff;
+  padding: 12px 30px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  height: 70px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff9800;
+}
+
+  .logo img {
+    height: 40px;
+  }
+
+.nav-actions {
+  margin-left: auto; /* pushes to right */
+  display: flex;
+  align-items: center;
+}
+
+  .nav-actions a {
+    margin-left: 25px;
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    transition: 0.3s;
+  }
+
+    .nav-actions a:hover {
+      color: #ff9800;
+      transform: scale(1.1);
+    }
+
+/* ===== SEARCH BAR ===== */
+.search-wrapper {
+  position: relative;
+  width: 100%;
+}
+
+  .search-wrapper i {
+    position: absolute;
+    top: 50%;
+    left: 15px;
+    transform: translateY(-50%);
+    color: #999;
+    font-size: 16px;
+  }
+
+.search-input {
+  width: 100%;
+  padding: 10px 15px 10px 40px; /* left space for icon */
+  border-radius: 25px;
+  border: 1px solid #ccc;
+  outline: none;
+  font-size: 14px;
+}
+
+
+  .search-input:focus {
+    border-color: #ff9800;
+    box-shadow: 0 0 5px rgba(255,152,0,0.6);
+  }
+
+
+  /* Hover */
+ 
+/* ============ CATEGORY BAR ============ */
+
+.category-bar {
+  background: #f5f5f5;
+  padding: 15px 10px;
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  overflow-x: auto;
+  margin-top: 80px;
+  border: 1px solid white;
+  background-color: white;
+  height: 115px;
+}
+
+.category {
+  text-align: center;
+  min-width: 90px;
+  cursor: pointer;
+  transition: transform 0.2s,;
+}
+
+  .category a {
+    text-decoration: none; /* removes underline */
+    color: black; /* text color black */
+    display: block; /* whole area clickable */
+  }
+
+
+  .category:hover {
+    transform: translateY(-1px) scale(1.02);
+  }
+  
+  .category img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #ff9800;
+    transition: transform 0.2s,, border-color 0.2s;
+  }
+
+  .category:hover img {
+    /* transform: scale(1.0); */ /* subtle scale */
+
+    border-color: #e68a00;
+  }
+
+  .category p {
+    margin-top: 6px;
+    font-weight: 500;
+    transition: color 0.2s;
+  }
+
+  .category:hover p {
+    color: #ff9800;
+  }
+  .category.active p {
+    color: #ff9800;
+    font-weight: 600;
+  }
+  
+
+/*  CAROUSEL  */
+
+
+#carouselExample {
+  width: 100%;
+}
+
+.carousel-wrapper {
+  margin-top: 20px; /* space below navbar */
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 450px; /* ✅ FIX HEIGHT */
+  object-fit: cover; /* ✅ IMPORTANT */
+  border-radius: 10px;
+}
+.carousel-img {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+}
+
+/* PRODUCTS GRID  */
+
+.products {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 250px);
+  justify-content: center; /* center cards */
+  gap: 20px;
+  padding: 30px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* 🔥 Button Container */
+/* 🔥 BUTTON GROUP */
+.btn-group {
+  display: flex;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+  /* 🔥 COMMON BUTTON STYLE */
+  .btn-group .btn {
+    flex: 1;
+    padding: 10px 0;
+    border-radius: 8px;
+    border: none;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.25s ease;
+  }
+
+/* 🛒 ADD TO CART (Soft Grey - Premium Minimal) */
+.cart-btn {
+  background: #ff9800 ;
+  color: #212121;
+  border: 1px solid #dcdcdc;
+}
+
+  .cart-btn:hover {
+    background: #f9bf0a;
+    transform: translateY(-2px);
+  }
+
+/* ⚡ BUY NOW (Strong Blue - Flipkart Style Premium) */
+.buy-btn {
+  background: #4b9317;
+  color: #fff;
+  box-shadow: 0 4px 10px rgba(40,116,240,0.3);
+}
+
+  .buy-btn:hover {
+    background: #469518;
+    transform: translateY(-2px);
+  }
+
+/* 🔥 ACTIVE CLICK EFFECT */
+.btn:active {
+  transform: scale(0.97);
+}
+.product {
+  background: #ffffff;
+  opacity: 1;
+  border-radius: 12px;
+  padding: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  text-align: center;
+  transition: all 0.3s ease;
+  width: 250px;
+  position: relative;
+}
+
+  .product:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 10px 24px rgba(0,0,0,0.12);
+  }
+
+  .product img {
+    width: 100%;
+    height: 170px;
+    object-fit: contain;
+    margin-bottom: 10px;
+  }
+.product-name {
+  font-size: 15px;
+  font-weight: 600;
+  color: #222;
+  margin-bottom: 5px;
+}
+
+.price {
+  font-size: 16px;
+  font-weight: 600;
+  color: #fb8c00;
+  margin-bottom: 8px;
+}
+
+  .product:hover img {
+    transform: scale(1.05);
+  }
+
+.stars {
+  color: #f5a623;
+}
+
+.price {
+  font-size: 18px;
+  font-weight: bold;
+  color: #ff9800;
+  margin-bottom: 10px;
+}
+
+
+
+
+
+/* Modal Overlay */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.6);
+}
+
+/* Modal Box */
+.modal-content {
+  background: #fff;
+  width: 70%;
+  max-width: 800px;
+  height: 500px;
+  margin: 60px auto;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  gap: 20px;
+  overflow: hidden;
+}
+
+  /* Image Section */
+  .modal-content img {
+    width: 50%;
+    height: 100%;
+    object-fit: contain; /* Important */
+    border-radius: 10px;
+    margin-left: 0px;
+  }
+
+/* Right Side Content */
+.modal-details {
+  width: 50%;
+  overflow-y: auto;
+}
+
+/* Close Button */
+.close {
+  position: absolute;
+  top: 15px;
+  right: 25px;
+  font-size: 28px;
+  cursor: pointer;
+}
+
+#modalImg {
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+/* ================= WISHLIST HEART ================= */
+
+.wishlist-icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 22px;
+  cursor: pointer;
+  color: #bbb;
+  background: white;
+  padding: 3px 7px;
+  border-radius: 50%;
+  z-index: 5;
+  opacity: 1; /* ALWAYS visible */
+  visibility: visible;
+  user-select: none;
+}
+
+  .wishlist-icon.active {
+    color: red;
+    font-size: 20px;
+  }
+
+/* ================= MODAL ================= */
+
+.modal-image-container {
+  position: relative;
+  display: inline-block;
+}
+
+#modalHeart {
+  position: absolute;
+  top: 120px;
+  right: 280px;
+  font-size: 26px;
+  cursor: pointer;
+  color: #bbb;
+  background: white;
+  padding: 5px 9px;
+  border-radius: 50%;
+  z-index: 10; /* higher than image */
+  transition: transform 0.2s;
+}
+
+  #modalHeart:hover {
+    transform: scale(1.2);
+  }
+
+  #modalHeart.active {
+    color: red;
+  }
+
+#cartCount {
+  font-size: 10px;
+  color: white;
+  padding: 2px 4px;
+  border: 0.5px solid gray;
+  border-radius: 50%;
+  background-color: gray;
+}
+
+
+.card {
+  border-radius: 12px;
+  padding: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  transition: 0.3s;
+}
+
+  .card:hover {
+    transform: scale(1.05);
+  }
+
+  .card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+.top-navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 30px;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff9800;
+}
+
+.search-input {
+  width: 40%;
+  padding: 8px 15px;
+  border-radius: 20px;
+  border: 1px solid #ccc;
+}
+
+.nav-actions {
+  display: flex;
+  gap: 20px;
+}
+
+  .nav-actions a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+  }
+
+.cart-btn {
+  background: #ff9800;
+  padding: 6px 12px;
+  border-radius: 20px;
+}
+
+.products {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 250px);
+  gap: 20px;
+  padding: 30px;
+  justify-content: center;
+}
+
+.product {
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 10px;
+  position: relative;
+  text-align: center;
+}
+
+  .product img {
+    width: 100%;
+    height: 180px;
+    object-fit: contain;
+  }
+
+.modal-img {
+  width: 300px;
+  height: 250px;
+  object-fit: contain;
+}
+
+.wishlist-icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+
+  .wishlist-icon.active {
+    color: red;
+  }

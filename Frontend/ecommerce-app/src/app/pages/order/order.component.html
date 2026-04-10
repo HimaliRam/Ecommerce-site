@@ -1,0 +1,39 @@
+<div class="order-container" *ngIf="products.length > 0">
+
+  <h2 class="title">🧾 Order Summary</h2>
+
+  <!-- 🔥 PRODUCT LIST -->
+  <div class="order-card" *ngFor="let item of products">
+
+    <img [src]="item.image" class="order-img">
+
+    <div class="details">
+
+      <h3>{{ item.name }}</h3>
+      <p class="price">₹{{ item.price }}</p>
+
+      <!-- ✅ QUANTITY CONTROL -->
+      <div class="qty-box">
+        <button (click)="decreaseQty(item)">-</button>
+        <span>{{ item.quantity }}</span>
+        <button (click)="increaseQty(item)">+</button>
+      </div>
+
+      <p class="item-total">
+        Item Total: ₹{{ item.price * item.quantity }}
+      </p>
+
+    </div>
+
+  </div>
+
+  <!-- 🔥 TOTAL SECTION -->
+  <div class="summary-box">
+    <h3>Total Amount: ₹{{ getTotal() }}</h3>
+
+    <button class="order-btn" (click)="placeOrder()">
+      Confirm Order
+    </button>
+  </div>
+
+</div>

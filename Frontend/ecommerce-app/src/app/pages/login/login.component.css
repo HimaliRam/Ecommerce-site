@@ -1,0 +1,331 @@
+/* ===== GLOBAL ===== */
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: #000;
+  color: #fff;
+}
+
+/* ===== MAIN CONTAINER ===== */
+.login-container {
+  display: flex;
+  flex-direction: row-reverse;
+  min-height: 100vh;
+  width: 100%;
+  background-image: url('https://images.pexels.com/photos/974911/pexels-photo-974911.jpeg');
+  background-size: 100% 100%; /* 🔥 show full image without cropping */
+
+  position: relative;
+  padding: 60px 0;
+}
+
+  .login-container::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(20,20,30,0.45), rgba(40,30,20,0.35), rgba(0,0,0,0.4));
+    z-index: 0;
+  }
+
+/* ===== PANELS ===== */
+.left-panel,
+.right-panel {
+  position: relative;
+  z-index: 1;
+}
+
+/* ===== LEFT PANEL ===== */
+.left-panel {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.brand h1 {
+  font-size: 42px;
+}
+
+.brand p {
+  color: #ddd;
+}
+
+/* ===== RIGHT PANEL ===== */
+.right-panel {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* ===== GLASS CARD ===== */
+.glass-card {
+  width: 360px;
+  padding: 50px 40px;
+  border-radius: 20px;
+  background: rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(18px);
+  border: 1px solid rgba(255,152,0,0.3);
+  box-shadow: 0 15px 50px rgba(0,0,0,0.5);
+  overflow: hidden;
+}
+
+  .glass-card h2 {
+    color: #fff;
+    margin-bottom: 5px;
+    font-weight: 600;
+  }
+
+.subtitle {
+  color: #ccc;
+  margin-bottom: 30px;
+  font-size: 14px;
+  text-align: center;
+}
+
+/* ===== INPUT GROUP ===== */
+.input-group {
+  position: relative;
+  margin-bottom: 25px;
+}
+
+  .input-group input {
+    width: 100%;
+    padding: 18px 14px 10px;
+    border-radius: 10px;
+    border: 1px solid rgba(255,255,255,0.3);
+    outline: none;
+    background: rgba(255,255,255,0.08);
+    color: #fff;
+    font-size: 14px;
+    transition: 0.3s;
+  }
+
+    /* Focus effect */
+    .input-group input:focus {
+      border: 1px solid #ff9800; /* Orange like register */
+      background: rgba(255,255,255,0.12);
+      box-shadow: 0 0 12px rgba(255,152,0,0.5);
+    }
+
+  /* Floating label */
+  .input-group label {
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 13px;
+    color: #bbb;
+    pointer-events: none;
+    transition: 0.3s;
+  }
+
+  /* Move label when input active or filled */
+  .input-group input:focus + label,
+  .input-group input:valid + label {
+    top: -8px;
+    transform: none;
+    font-size: 11px;
+    color: #ff9800;
+    font-weight: 600;
+    background: rgba(0,0,0,0.8);
+    padding: 0 6px;
+    border-radius: 4px;
+  }
+
+  /* Placeholder */
+  .input-group input::placeholder {
+    color: #fff;
+  }
+
+/* Autofill fix */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-text-fill-color: #fff !important;
+  transition: background-color 9999s ease-in-out 0s;
+  -webkit-box-shadow: 0 0 0 1000px rgba(255,255,255,0.08) inset !important;
+  box-shadow: 0 0 0 1000px rgba(255,255,255,0.08) inset !important;
+  border: 1px solid rgba(255,255,255,0.3) !important;
+}
+
+/* ===== FORGOT PASSWORD ===== */
+.forgot {
+  text-align: right;
+  margin-bottom: 20px;
+}
+
+  .forgot a {
+    font-size: 13px;
+    color: #ff9800; /* Orange like register */
+    text-decoration: none;
+    transition: 0.3s;
+  }
+
+    .forgot a:hover {
+      text-decoration: underline;
+    }
+
+/* ===== BUTTON ===== */
+button {
+  width: 100%;
+  padding: 14px;
+  border-radius: 30px;
+  border: none;
+  background: linear-gradient(135deg, #ff9800, #ff5722);
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+  button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 5px 20px rgba(255,152,0,0.6);
+  }
+
+/* SIGNUP LINK */
+.signup {
+  margin-top: 25px;
+  text-align: center;
+  color: #ccc;
+}
+
+  .signup a {
+    color: #ff9800;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .left-panel {
+    display: none;
+  }
+
+  .right-panel {
+    flex: 100%;
+  }
+}
+/* BACKDROP */
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(15, 23, 42, 0.6);
+  backdrop-filter: blur(8px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  animation: fadeIn 0.3s ease;
+}
+
+/* MODAL CARD */
+.modal-content {
+  position: relative;
+  width: 350px;
+  padding: 30px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(20px);
+  box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+  color: #fff;
+  animation: slideUp 0.4s ease;
+}
+
+/* CLOSE BUTTON */
+.close-btn {
+  position: absolute;
+  top: 12px;
+  right: 15px;
+  font-size: 22px;
+  cursor: pointer;
+  color: #fff;
+  transition: 0.3s;
+}
+
+  .close-btn:hover {
+    color: #ff4d4d;
+    transform: scale(1.2);
+  }
+
+/* TITLE */
+.modal-content h2 {
+  margin-bottom: 5px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.subtitle {
+  font-size: 13px;
+  margin-bottom: 20px;
+  color: #ddd;
+}
+
+/* INPUT */
+.modal-content input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border: none;
+  outline: none;
+  border-radius: 8px;
+  background: rgba(255,255,255,0.2);
+  color: #fff;
+}
+
+  .modal-content input::placeholder {
+    color: #ddd;
+  }
+
+/* BUTTON */
+.modal-content button {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #df916d, #db4242);
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+  .modal-content button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+  }
+
+/* STEP SPACING */
+.step {
+  margin-top: 10px;
+}
+
+/* ANIMATIONS */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(40px);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}

@@ -1,0 +1,57 @@
+<div class="top-navbar">
+
+  <!-- LOGO -->
+  <div class="logo" routerLink="/">
+    ShopEase
+  </div>
+
+  <!-- SEARCH -->
+  <div class="search-wrapper">
+    <input type="text"
+           class="search-input"
+           placeholder="Search products..."
+           [(ngModel)]="searchQuery"
+           (input)="onSearch()" />
+  </div>
+
+  <!-- NAV -->
+  <div class="nav-actions">
+    <a routerLink="/home" class="nav-link">Home</a>
+    <a routerLink="/wishlist" class="nav-link">Wishlist</a>
+    <a routerLink="/orders" class="nav-link">Orders</a>
+
+    <a routerLink="/cart" class="cart-icon nav-link">
+      Cart
+     
+    </a>
+
+    <!-- LOGIN -->
+    <a *ngIf="!user" routerLink="/login" class="login-btn">
+      Login
+    </a>
+
+    <!-- USER -->
+    <div *ngIf="user" class="user-menu">
+      <div class="avatar" (click)="toggleDropdown()">
+        {{ userInitial }}
+      </div>
+
+      <div class="dropdown" *ngIf="isDropdownOpen">
+        <div class="user-info">
+          <div class="avatar large">{{ userInitial }}</div>
+          <div>
+            <div class="username">{{ user.name || 'User' }}</div>
+          </div>
+        </div>
+
+        <hr>
+
+        <a routerLink="/orders">My Orders</a>
+        <a routerLink="/wishlist">Wishlist</a>
+
+        <button (click)="logout()">Logout</button>
+      </div>
+    </div>
+
+  </div>
+</div>

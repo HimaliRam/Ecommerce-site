@@ -1,0 +1,26 @@
+<h2>My Wishlist ❤️</h2>
+
+<p *ngIf="wishlist.length === 0" style="text-align:center;">
+  Your wishlist is empty 💔
+</p>
+
+<div class="grid">
+  <div class="card" *ngFor="let item of wishlist">
+
+    <!-- REMOVE -->
+    <span class="remove" (click)="removeItem(item)">❤️</span>
+
+    <!-- IMAGE -->
+    <img [src]="item.image">
+
+    <!-- DETAILS -->
+    <h4>{{ item.name }}</h4>
+    <div class="price">₹{{ item.price }}</div>
+
+    <!-- 🔥 ADD TO CART BUTTON -->
+    <button class="cart-btn" (click)="addToCart(item)">
+      🛒 Add to Cart
+    </button>
+
+  </div>
+</div>

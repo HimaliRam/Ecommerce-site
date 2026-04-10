@@ -1,0 +1,63 @@
+<div class="cart-container">
+
+  <h2>Your Cart</h2>
+
+  <!-- ✅ DEBUG -->
+  <p>Total Items: {{ cart?.length }}</p>
+
+  <table *ngIf="cart.length > 0; else emptyCart">
+
+    <thead>
+      <tr>
+        <th>Image</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Quantity</th>
+        <th>Remove</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr *ngFor="let item of cart; trackBy: trackById">
+
+        <td>
+          <img [src]="item.image || 'https://via.placeholder.com/80'"
+               width="80">
+        </td>
+
+        <td>{{ item.name }}</td>
+        <td class="price" >₹{{ item.price }}</td>
+
+        <td>
+          <button class="qty-btn" (click)="decreaseQty(item)">-</button>
+          <span class="qty">{{ item.quantity }}</span>
+          <button class="qty-btn" (click)="increaseQty(item)">+</button>
+        </td>
+
+
+        <td>
+          <button class="remove-btn" (click)="removeItem(item)">❌</button>
+        </td>
+
+      </tr>
+    </tbody>
+
+  </table>
+
+  <!-- ✅ EMPTY STATE -->
+  <ng-template #emptyCart>
+    <div style="text-align:center;font-weight:bold;">
+      Your cart is empty
+    </div>
+  </ng-template>
+
+  <div class="cart-summary" *ngIf="cart.length > 0">
+    <h3>Total: ₹{{ getTotal() }}</h3>
+
+
+    <button class="checkout-btn" (click)="proceedToCheckout()">
+      Proceed to Checkout
+    </button>
+  </div>
+
+</div>

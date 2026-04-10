@@ -1,0 +1,1219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\navbar\\navbar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\navbar\\navbar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\wishlist\\wishlist.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\wishlist\\wishlist.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\register\\register.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\register\\register.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\register\\register.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\register\\register.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\register\\register.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\register\\register.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\cart\\cart.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\cart\\cart.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\shared.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\shared.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\cart.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\cart.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\wishlist.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\wishlist.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\wishlist\\wishlist.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\wishlist\\wishlist.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\wishlist\\wishlist.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\wishlist\\wishlist.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\main\\main.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\main\\main.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\main\\main.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\main\\main.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\order\\order.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\order\\order.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\order\\order.component.ts||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\order\\order.component.ts||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\order\\order.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\order\\order.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\order\\order-history.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\order\\order-history.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\cart\\cart.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\cart\\cart.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\cart.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\cart.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\order.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\order.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\product.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\product.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\cart\\cart.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\cart\\cart.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\main\\main.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\main\\main.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\category\\category.component.html||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\category\\category.component.html||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\order\\order-history.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\order\\order-history.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\order\\order-history.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\order\\order-history.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\products\\products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\products\\products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\products\\products.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\products\\products.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\home\\home.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\home\\home.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\product.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\product.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\assets\\no-image.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\no-image.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\wishlist.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\wishlist.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\assets\\carousel3.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\assets\\carousel3.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\assets\\carousel1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\assets\\carousel1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\products\\products.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\products\\products.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\assets\\carousel2.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\assets\\carousel2.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\footer\\footer.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\footer\\footer.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\navbar\\navbar.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\navbar\\navbar.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\wishlist.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\wishlist.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\cart.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\cart.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\auth.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\auth.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\wishlist\\wishlist.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\wishlist\\wishlist.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\register\\register.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\register\\register.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\register\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\register\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\login\\login.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\login\\login.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\login\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\login\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\footer\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\footer\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\footer\\footer.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\footer\\footer.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 68,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "main.component.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\main\\main.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\main\\main.component.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\main\\main.component.ts",
+              "RelativeToolTip": "src\\app\\pages\\main\\main.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-09T09:10:22.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "main.component.css",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\main\\main.component.css",
+              "RelativeDocumentMoniker": "src\\app\\pages\\main\\main.component.css",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\main\\main.component.css",
+              "RelativeToolTip": "src\\app\\pages\\main\\main.component.css",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAJkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-09T09:10:04.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "main.component.html",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\main\\main.component.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\main\\main.component.html",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\main\\main.component.html",
+              "RelativeToolTip": "src\\app\\pages\\main\\main.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-09T09:09:23.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "order-history.component.css",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\order\\order-history.component.css",
+              "RelativeDocumentMoniker": "src\\app\\pages\\order\\order-history.component.css",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\order\\order-history.component.css",
+              "RelativeToolTip": "src\\app\\pages\\order\\order-history.component.css",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-09T05:11:55.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "order.component.css",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\order\\order.component.css",
+              "RelativeDocumentMoniker": "src\\app\\pages\\order\\order.component.css",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\order\\order.component.css",
+              "RelativeToolTip": "src\\app\\pages\\order\\order.component.css",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-09T05:11:07.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "order.service.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\order.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\order.service.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\order.service.ts",
+              "RelativeToolTip": "src\\app\\services\\order.service.ts",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-09T05:01:13.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "products.spec.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\products\\products.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\products\\products.spec.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\products\\products.spec.ts",
+              "RelativeToolTip": "src\\app\\pages\\products\\products.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-09T04:28:46.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "order-history.component.html",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\order\\order-history.component.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\order\\order-history.component.html",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\order\\order-history.component.html",
+              "RelativeToolTip": "src\\app\\pages\\order\\order-history.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-09T04:26:47.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "order-history.component.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\order\\order-history.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\order\\order-history.component.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\order\\order-history.component.ts",
+              "RelativeToolTip": "src\\app\\pages\\order\\order-history.component.ts",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwFEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-09T04:26:12.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "order.component.html",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\order\\order.component.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\order\\order.component.html",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\order\\order.component.html",
+              "RelativeToolTip": "src\\app\\pages\\order\\order.component.html",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-09T04:25:02.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "order.component.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\order\\order.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\order\\order.component.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\order\\order.component.ts",
+              "RelativeToolTip": "src\\app\\pages\\order\\order.component.ts",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswEMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-09T04:24:39.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "category.component.html",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\category\\category.component.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\category\\category.component.html",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\category\\category.component.html",
+              "RelativeToolTip": "src\\app\\pages\\category\\category.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-08T08:58:27.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "category.component.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\category\\category.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\category\\category.component.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\category\\category.component.ts",
+              "RelativeToolTip": "src\\app\\pages\\category\\category.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-08T08:57:52.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "no-image.png",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\assets\\no-image.png",
+              "RelativeDocumentMoniker": "src\\assets\\no-image.png",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\assets\\no-image.png",
+              "RelativeToolTip": "src\\assets\\no-image.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-04-08T05:01:52.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "cart.spec.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\cart.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\cart.spec.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\cart.spec.ts",
+              "RelativeToolTip": "src\\app\\services\\cart.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-07T10:19:00.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "product.spec.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\product.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\product.spec.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\product.spec.ts",
+              "RelativeToolTip": "src\\app\\services\\product.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-07T10:10:20.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "home.spec.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\home\\home.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\home\\home.spec.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\home\\home.spec.ts",
+              "RelativeToolTip": "src\\app\\pages\\home\\home.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-07T10:09:53.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "carousel1.jpg",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\assets\\carousel1.jpg",
+              "RelativeDocumentMoniker": "src\\app\\assets\\carousel1.jpg",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\assets\\carousel1.jpg",
+              "RelativeToolTip": "src\\app\\assets\\carousel1.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-04-06T09:39:10.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "carousel2.jpg",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\assets\\carousel2.jpg",
+              "RelativeDocumentMoniker": "src\\app\\assets\\carousel2.jpg",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\assets\\carousel2.jpg",
+              "RelativeToolTip": "src\\app\\assets\\carousel2.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-04-06T09:39:09.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "carousel3.jpg",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\assets\\carousel3.jpg",
+              "RelativeDocumentMoniker": "src\\app\\assets\\carousel3.jpg",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\assets\\carousel3.jpg",
+              "RelativeToolTip": "src\\app\\assets\\carousel3.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-04-06T09:39:06.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-06T09:05:40.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "shared.service.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\shared.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\shared.service.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\shared.service.ts",
+              "RelativeToolTip": "src\\app\\services\\shared.service.ts",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswEAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T08:47:21.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "navbar.spec.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\navbar\\navbar.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\components\\navbar\\navbar.spec.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\navbar\\navbar.spec.ts",
+              "RelativeToolTip": "src\\app\\components\\navbar\\navbar.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T07:34:03.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\styles.css",
+              "RelativeDocumentMoniker": "src\\styles.css",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\styles.css",
+              "RelativeToolTip": "src\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-06T06:49:34.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\index.html",
+              "RelativeDocumentMoniker": "src\\index.html",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\index.html",
+              "RelativeToolTip": "src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-06T06:47:25.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\angular.json",
+              "RelativeDocumentMoniker": "angular.json",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\angular.json",
+              "RelativeToolTip": "angular.json",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwEYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-06T06:46:22.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "wishlist.spec.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\wishlist.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\wishlist.spec.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\wishlist.spec.ts",
+              "RelativeToolTip": "src\\app\\services\\wishlist.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T06:40:38.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "login.component.css",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\login\\login.component.css",
+              "RelativeDocumentMoniker": "src\\app\\pages\\login\\login.component.css",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\login\\login.component.css",
+              "RelativeToolTip": "src\\app\\pages\\login\\login.component.css",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-06T06:28:23.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "footer.component.html",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\footer\\footer.component.html",
+              "RelativeDocumentMoniker": "src\\app\\components\\footer\\footer.component.html",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\footer\\footer.component.html",
+              "RelativeToolTip": "src\\app\\components\\footer\\footer.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-06T06:16:43.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "wishlist.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\wishlist.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\wishlist.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\wishlist.ts",
+              "RelativeToolTip": "src\\app\\services\\wishlist.ts",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T06:15:25.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "navbar.component.html",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\navbar\\navbar.component.html",
+              "RelativeDocumentMoniker": "src\\app\\components\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\navbar\\navbar.component.html",
+              "RelativeToolTip": "src\\app\\components\\navbar\\navbar.component.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-06T06:10:24.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "cart.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\cart.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\cart.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\cart.ts",
+              "RelativeToolTip": "src\\app\\services\\cart.ts",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T06:01:58.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "auth.component.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\auth.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\auth.component.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\auth.component.ts",
+              "RelativeToolTip": "src\\app\\services\\auth.component.ts",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T06:01:00.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "wishlist.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\wishlist\\wishlist.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\wishlist\\wishlist.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\wishlist\\wishlist.ts",
+              "RelativeToolTip": "src\\app\\pages\\wishlist\\wishlist.ts",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T06:00:52.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "register.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\register\\register.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\register\\register.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\register\\register.ts",
+              "RelativeToolTip": "src\\app\\pages\\register\\register.ts",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T06:00:33.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\register\\register.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\register\\register.html",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\register\\register.html",
+              "RelativeToolTip": "src\\app\\pages\\register\\register.html",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-06T06:00:27.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "login.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\login\\login.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\login\\login.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\login\\login.ts",
+              "RelativeToolTip": "src\\app\\pages\\login\\login.ts",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T06:00:00.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\login\\login.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\login\\login.html",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\login\\login.html",
+              "RelativeToolTip": "src\\app\\pages\\login\\login.html",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-06T05:59:53.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "home.component.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\home\\home.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\home\\home.component.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\home\\home.component.ts",
+              "RelativeToolTip": "src\\app\\pages\\home\\home.component.ts",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAgwJUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T05:59:39.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "footer.component.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\footer\\footer.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\components\\footer\\footer.component.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\footer\\footer.component.ts",
+              "RelativeToolTip": "src\\app\\components\\footer\\footer.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T05:58:43.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "footer.css",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\footer\\footer.css",
+              "RelativeDocumentMoniker": "src\\app\\components\\footer\\footer.css",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\footer\\footer.css",
+              "RelativeToolTip": "src\\app\\components\\footer\\footer.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-06T05:58:30.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\login\\login.component.ts",
+              "RelativeToolTip": "src\\app\\pages\\login\\login.component.ts",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T05:54:53.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "cart.component.html",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\cart\\cart.component.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\cart\\cart.component.html",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\cart\\cart.component.html",
+              "RelativeToolTip": "src\\app\\pages\\cart\\cart.component.html",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-06T05:54:41.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "cart.component.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\cart\\cart.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\cart\\cart.component.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\cart\\cart.component.ts",
+              "RelativeToolTip": "src\\app\\pages\\cart\\cart.component.ts",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswCIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T05:54:32.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "navbar.component.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\navbar\\navbar.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\components\\navbar\\navbar.component.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\navbar\\navbar.component.ts",
+              "RelativeToolTip": "src\\app\\components\\navbar\\navbar.component.ts",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T05:50:05.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "navbar.component.css",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\navbar\\navbar.component.css",
+              "RelativeDocumentMoniker": "src\\app\\components\\navbar\\navbar.component.css",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\navbar\\navbar.component.css",
+              "RelativeToolTip": "src\\app\\components\\navbar\\navbar.component.css",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAJUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-06T05:49:48.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "footer.component.css",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\footer\\footer.component.css",
+              "RelativeDocumentMoniker": "src\\app\\components\\footer\\footer.component.css",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\components\\footer\\footer.component.css",
+              "RelativeToolTip": "src\\app\\components\\footer\\footer.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-06T05:49:18.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "wishlist.component.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\wishlist\\wishlist.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\wishlist\\wishlist.component.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\wishlist\\wishlist.component.ts",
+              "RelativeToolTip": "src\\app\\pages\\wishlist\\wishlist.component.ts",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T05:49:02.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "wishlist.component.css",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\wishlist\\wishlist.component.css",
+              "RelativeDocumentMoniker": "src\\app\\pages\\wishlist\\wishlist.component.css",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\wishlist\\wishlist.component.css",
+              "RelativeToolTip": "src\\app\\pages\\wishlist\\wishlist.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-06T05:48:35.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "wishlist.component.html",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\wishlist\\wishlist.component.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\wishlist\\wishlist.component.html",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\wishlist\\wishlist.component.html",
+              "RelativeToolTip": "src\\app\\pages\\wishlist\\wishlist.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-06T05:48:26.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "register.component.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\register\\register.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\register\\register.component.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\register\\register.component.ts",
+              "RelativeToolTip": "src\\app\\pages\\register\\register.component.ts",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T05:48:12.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "register.component.html",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\register\\register.component.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\register\\register.component.html",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\register\\register.component.html",
+              "RelativeToolTip": "src\\app\\pages\\register\\register.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-06T05:48:05.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "register.component.css",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\register\\register.component.css",
+              "RelativeDocumentMoniker": "src\\app\\pages\\register\\register.component.css",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\register\\register.component.css",
+              "RelativeToolTip": "src\\app\\pages\\register\\register.component.css",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAIwMAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-06T05:47:57.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "cart.component.css",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\cart\\cart.component.css",
+              "RelativeDocumentMoniker": "src\\app\\pages\\cart\\cart.component.css",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\cart\\cart.component.css",
+              "RelativeToolTip": "src\\app\\pages\\cart\\cart.component.css",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-06T05:47:23.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.component.html",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\home\\home.component.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\home\\home.component.html",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\home\\home.component.html",
+              "RelativeToolTip": "src\\app\\pages\\home\\home.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-06T05:47:05.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home.component.css",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\home\\home.component.css",
+              "RelativeDocumentMoniker": "src\\app\\pages\\home\\home.component.css",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\home\\home.component.css",
+              "RelativeToolTip": "src\\app\\pages\\home\\home.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-06T05:46:57.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\login\\login.component.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\login\\login.component.html",
+              "RelativeToolTip": "src\\app\\pages\\login\\login.component.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-06T05:46:33.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "products.component.css",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\products\\products.component.css",
+              "RelativeDocumentMoniker": "src\\app\\pages\\products\\products.component.css",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\products\\products.component.css",
+              "RelativeToolTip": "src\\app\\pages\\products\\products.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-06T05:46:20.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "products.component.html",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\products\\products.component.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\products\\products.component.html",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\products\\products.component.html",
+              "RelativeToolTip": "src\\app\\pages\\products\\products.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-06T05:41:46.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "products.component.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\products\\products.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\products\\products.component.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\pages\\products\\products.component.ts",
+              "RelativeToolTip": "src\\app\\pages\\products\\products.component.ts",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T05:41:33.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "wishlist.service.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\wishlist.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\wishlist.service.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\wishlist.service.ts",
+              "RelativeToolTip": "src\\app\\services\\wishlist.service.ts",
+              "ViewState": "AgIAADgAAAAAAAAAAAAowEoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T05:41:07.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "auth.service.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\auth.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\auth.service.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\auth.service.ts",
+              "RelativeToolTip": "src\\app\\services\\auth.service.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T05:40:57.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cart.service.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\cart.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\cart.service.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\cart.service.ts",
+              "RelativeToolTip": "src\\app\\services\\cart.service.ts",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T05:40:48.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "product.service.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\product.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\product.service.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\services\\product.service.ts",
+              "RelativeToolTip": "src\\app\\services\\product.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T05:40:33.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\app.component.html",
+              "RelativeToolTip": "src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-06T05:40:02.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\app.component.ts",
+              "RelativeToolTip": "src\\app\\app.component.ts",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T05:39:46.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\main.ts",
+              "RelativeDocumentMoniker": "src\\main.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\main.ts",
+              "RelativeToolTip": "src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T05:39:21.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "app.config.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\app.config.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.config.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\app.config.ts",
+              "RelativeToolTip": "src\\app\\app.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T05:39:07.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.routes.ts",
+              "ToolTip": "C:\\Users\\trainee2\\source\\repos\\Himali_Ram_Practices\\ecommerce-app\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-06T05:38:46.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

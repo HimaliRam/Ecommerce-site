@@ -1,0 +1,121 @@
+/* 🔥 Grid Layout (FIXED SIZE LIKE HOME PAGE) */
+.orders {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 250px); /* ✅ FIX WIDTH */
+  justify-content: center; /* ✅ CENTER CARDS */
+  gap: 20px;
+  padding: 30px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* 🔥 Card */
+.order-card {
+  width: 250px; /* ✅ FIX WIDTH */
+  background: #fff;
+  border-radius: 12px;
+  padding: 15px;
+  text-align: center;
+  box-shadow: 0 5px 12px rgba(0,0,0,0.08);
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+  /* Hover effect same as home */
+  .order-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 10px 22px rgba(0,0,0,0.12);
+  }
+
+  /* 🔥 Image */
+  .order-card img {
+    width: 100%;
+    height: 170px;
+    object-fit: contain; /* ✅ SAME AS HOME */
+    margin-bottom: 10px;
+  }
+
+  /* 🔥 Product Name */
+  .order-card h4 {
+    font-size: 15px;
+    font-weight: 600;
+    color: #222;
+    margin-bottom: 6px;
+  }
+
+  /* 🔥 Text */
+  .order-card p {
+    font-size: 14px;
+    color: #555;
+    margin: 3px 0;
+  }
+
+    /* 🔥 Price */
+    .order-card p:last-of-type {
+      font-size: 16px;
+      font-weight: 600;
+      color: #fb8c00; /* ✅ MATCH HOME THEME */
+    }
+
+  /* 🔥 Date */
+  .order-card small {
+    display: block;
+    margin-top: 6px;
+    font-size: 12px;
+    color: #888;
+  }
+
+/* 🔥 Title */
+.title {
+  text-align: center;
+  margin: 25px 0;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+/* 🔥 Loading / Empty */
+.loading, .empty {
+  text-align: center;
+  margin-top: 40px;
+  color: #777;
+}
+
+  /* 🔥 Subtle Top Accent */
+  .order-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 4px;
+    width: 100%;
+    background: linear-gradient(90deg, #e3b760, #ff4e00);
+  }
+
+/* 🔥 Animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.order-card {
+  animation: fadeIn 0.4s ease-in-out;
+}
+
+/* 🔥 Responsive */
+@media (max-width: 768px) {
+  .orders {
+    padding: 15px;
+    gap: 15px;
+  }
+
+  .title {
+    font-size: 22px;
+  }
+}
