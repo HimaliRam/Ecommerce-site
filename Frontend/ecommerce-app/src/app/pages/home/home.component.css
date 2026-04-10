@@ -521,3 +521,69 @@ body {
   .wishlist-icon.active {
     color: red;
   }
+/* ================= RESPONSIVE DESIGN ================= */
+@media screen and (max-width: 768px) {
+
+  .top-navbar {
+    flex-wrap: wrap;
+    height: auto;
+    padding: 10px;
+    gap: 10px;
+  }
+
+  .logo {
+    font-size: 18px;
+  }
+
+  /* SEARCH goes FULL WIDTH below navbar */
+  .search-wrapper {
+    width: 100%;
+    order: 3;
+  }
+
+  .search-input {
+    width: 100%;
+  }
+
+  /* NAV moves properly */
+  .nav-actions {
+    width: 100%;
+    justify-content: space-between;
+    order: 2;
+  }
+
+  .category-bar {
+    margin-top: 130px; /* FIX overlap on mobile */
+    gap: 12px;
+  }
+
+  .category img {
+    width: 45px;
+    height: 45px;
+  }
+}
+@media screen and (max-width: 480px) {
+
+  .category-bar {
+    margin-top: 140px;
+    padding: 8px;
+  }
+
+  .category {
+    min-width: 70px;
+  }
+
+    .category img {
+      width: 40px;
+      height: 40px;
+    }
+
+    .category p {
+      font-size: 11px;
+    }
+
+  .search-input {
+    font-size: 13px;
+    padding: 8px 12px;
+  }
+}

@@ -329,3 +329,106 @@ button {
     opacity: 1;
   }
 }
+
+/* ================= TABLET (<= 1024px) ================= */
+@media (max-width: 1024px) {
+
+  .glass-card {
+    width: 320px;
+    padding: 40px 30px;
+  }
+
+  .brand h1 {
+    font-size: 34px;
+  }
+
+  .brand p {
+    font-size: 14px;
+  }
+}
+
+/* ================= MOBILE (<= 768px) ================= */
+@media (max-width: 768px) {
+
+  .login-container {
+    flex-direction: column;
+    padding: 20px;
+    background-size: cover; /* FIX background issue */
+    background-position: center;
+  }
+
+  .left-panel {
+    display: none; /* clean mobile UI */
+  }
+
+  .right-panel {
+    flex: 1;
+    width: 100%;
+    padding: 20px;
+  }
+
+  .glass-card {
+    width: 100%;
+    max-width: 380px;
+    padding: 35px 25px;
+    border-radius: 16px;
+  }
+
+  .subtitle {
+    font-size: 13px;
+  }
+
+  .input-group input {
+    padding: 16px 12px 10px;
+    font-size: 14px;
+  }
+
+  button {
+    font-size: 15px;
+    padding: 12px;
+  }
+}
+
+/* ================= SMALL MOBILE (<= 480px) ================= */
+@media (max-width: 480px) {
+
+  .login-container {
+    padding: 10px;
+  }
+
+  .glass-card {
+    width: 100%;
+    padding: 25px 18px;
+    border-radius: 14px;
+  }
+
+    .glass-card h2 {
+      font-size: 20px;
+    }
+
+  .subtitle {
+    font-size: 12px;
+  }
+
+  .input-group {
+    margin-bottom: 18px;
+  }
+
+    .input-group input {
+      padding: 14px 10px;
+      font-size: 13px;
+    }
+
+  .forgot a {
+    font-size: 12px;
+  }
+
+  button {
+    font-size: 14px;
+    padding: 12px;
+  }
+
+  .signup {
+    font-size: 12px;
+  }
+}

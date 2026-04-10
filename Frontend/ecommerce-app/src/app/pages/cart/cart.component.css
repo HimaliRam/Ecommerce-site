@@ -132,3 +132,229 @@ td img {
     transform: scale(1.05);
     box-shadow: 0 5px 20px rgba(255,152,0,0.5);
   }
+/* ================= RESPONSIVE CART ================= */
+
+/* 🔹 Tablets (<= 1024px) */
+@media screen and (max-width: 1024px) {
+
+  .cart-container {
+    margin: 80px 15px 40px;
+    padding: 20px;
+  }
+
+  table th,
+  table td {
+    padding: 12px;
+    font-size: 14px;
+  }
+
+  td img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .checkout-btn {
+    font-size: 15px;
+    padding: 10px 20px;
+  }
+}
+
+
+/* 🔹 Mobile (<= 768px) */
+
+@media screen and (max-width: 768px) {
+
+  .cart-container {
+    margin: 85px 0 30px; /* ❌ remove side gap */
+    padding: 12px;
+    width: 100%; /* ✅ full width */
+    max-width: 100%; /* ✅ override desktop limit */
+    border-radius: 0; /* optional: full screen look */
+    overflow-x: hidden;
+  }
+
+  /* TABLE FULL WIDTH FIX */
+  table {
+    width: 100%;
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  thead, tbody {
+    width: 100%;
+  }
+
+  th, td {
+    padding: 10px;
+    font-size: 13px;
+  }
+
+    td img {
+      width: 50px;
+      height: 50px;
+    }
+
+  .qty-btn {
+    padding: 4px 10px;
+    font-size: 14px;
+  }
+
+  .checkout-btn {
+    width: 50%;
+    font-size: 14px;
+    padding: 12px;
+  }
+
+  .cart-summary {
+    text-align: center;
+    font-size: 16px;
+  }
+}
+
+
+/* 🔹 Small Mobile (<= 480px) */
+@media screen and (max-width: 480px) {
+
+  .cart-container {
+    margin: 95px 5px 20px;
+    padding: 10px;
+  }
+
+  th, td {
+    font-size: 12px;
+    padding: 8px;
+  }
+
+    td img {
+      width: 45px;
+      height: 45px;
+    }
+
+  .qty-btn {
+    padding: 3px 8px;
+    font-size: 12px;
+  }
+
+  .checkout-btn {
+    font-size: 13px;
+    padding: 10px;
+  }
+
+  .remove-btn {
+    font-size: 16px;
+  }
+
+  .cart-summary {
+    font-size: 15px;
+  }
+}
+
+/* ================= ULTRA SMALL MOBILE (<= 420px) ================= */
+@media screen and (max-width: 420px) {
+
+  .cart-container {
+    margin: 100px 5px 15px;
+    padding: 8px;
+    border-radius: 8px;
+  }
+
+    .cart-container h2 {
+      font-size: 16px;
+      text-align: center;
+    }
+
+  /* TABLE → CARD STYLE FOR BETTER MOBILE UX */
+  table {
+    display: block;
+    width: 100%;
+  }
+
+  thead {
+    display: none; /* hide table header */
+  }
+
+  tbody {
+    display: block;
+  }
+
+  tr {
+    display: block;
+    background: #fff;
+    margin-bottom: 12px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  }
+
+  td {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 0;
+    font-size: 13px;
+    border: none;
+  }
+
+    td img {
+      width: 60px;
+      height: 60px;
+      margin: auto;
+    }
+
+    /* LABEL STYLE (optional improvement) */
+    td::before {
+      content: attr(data-label);
+      font-weight: 600;
+      color: #666;
+    }
+
+  .qty-btn {
+    padding: 4px 8px;
+    font-size: 12px;
+  }
+
+  .qty {
+    font-size: 13px;
+  }
+
+  .remove-btn {
+    font-size: 14px;
+  }
+
+  .cart-summary {
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .checkout-btn {
+    width: 100%;
+    font-size: 14px;
+    padding: 12px;
+    border-radius: 20px;
+  }
+}
+@media screen and (max-width: 360px) {
+
+  .cart-container {
+    margin: 105px 3px 10px;
+    padding: 6px;
+  }
+
+  td {
+    font-size: 12px;
+  }
+
+    td img {
+      width: 50px;
+      height: 50px;
+    }
+
+  .checkout-btn {
+    font-size: 13px;
+  }
+
+  .qty-btn {
+    padding: 3px 6px;
+  }
+}
